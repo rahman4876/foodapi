@@ -25,6 +25,7 @@ function App() {
     }
   };
 
+  
   return (
     <div className="min-h-screen flex flex-col items-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-10">
       <h1 className="text-3xl font-bold text-white mb-6">Search for Your Favorite Food!</h1>
